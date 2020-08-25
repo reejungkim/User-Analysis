@@ -11,6 +11,9 @@ This repository is divided into three parts:
 
 ## 2. Rcommendation system based on market basket analysis
 [See Jupyter Notebook](Market%20Basket%20Analysis.ipynb)
+<!-- ![market basket](image/market%20basket%20analysis.jpg) -->
+<img src="image/market%20basket%20analysis.jpg" height="200" width="300">
 
 ## 3. Recommendation system using collaborative filtering
 [See Jupyter Notebook](Movie%20recommendation%20system.ipynb)
+<img src="image/collabFilter.png" height="200" width="300">
