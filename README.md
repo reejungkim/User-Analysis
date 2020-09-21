@@ -8,10 +8,10 @@ This repository is divided into three parts:
   1. Segmented cohort analysis
   2. Segmented retention analysis
   3. Customer life time value analysis and prediction
-  4. User funnel analysis  [See Jupyter Notebook](Expedia%20Funnel%20analysis.ipynb)
+  4. User funnel analysis  [Open with nbviewer](https://nbviewer.jupyter.org/github/reejungkim/User-Analysis/blob/master/Expedia%20Funnel%20analysis.ipynb)
   
 ## 2. Geographic vizualization of sales using Folium
-  [See vizualization](https://nbviewer.jupyter.org/github/reejungkim/User-Analysis/blob/master/Geographic%20mapping%20-%20Folium.ipynb)
+  [Open with nbviewer](https://nbviewer.jupyter.org/github/reejungkim/User-Analysis/blob/master/Geographic%20mapping%20-%20Folium.ipynb)
 
 ## 3. Rcommendation system based on market basket analysis
 [See Jupyter Notebook](Market%20Basket%20Analysis.ipynb)
