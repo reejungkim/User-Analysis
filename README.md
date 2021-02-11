@@ -7,8 +7,11 @@ This repository is divided into three parts:
 [See Jupyter Notebook](cohort%20retention%20and%20CLV.ipynb)
   1. Segmented cohort analysis
   2. Segmented retention analysis
+      <img src="image/img_RetentionHeatmap.png" height="200" width="300">
   3. Customer life time value analysis and prediction
   4. User funnel analysis  [Open with nbviewer](https://nbviewer.jupyter.org/github/reejungkim/User-Analysis/blob/master/Expedia%20Funnel%20analysis.ipynb)
+      <img src="image/img_funnel.png" height="200" width="300">
+
   
 ## 2. Geographic vizualization of sales using Folium
   [Open with nbviewer](https://nbviewer.jupyter.org/github/reejungkim/User-Analysis/blob/master/Geographic%20mapping%20-%20Folium.ipynb)
