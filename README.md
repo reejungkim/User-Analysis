@@ -12,6 +12,8 @@ This repository is divided into three parts:
   4. User funnel analysis  [Open with nbviewer](https://nbviewer.jupyter.org/github/reejungkim/User-Analysis/blob/master/Expedia%20Funnel%20analysis.ipynb)
       <img src="image/img_funnel.png" height="200" width="300">
 
+  5. Traffic analysis
+      <img src="/image/traffic_heatmap.png" height="150" width="400">
   
 ## 2. Geographic vizualization of sales using Folium
   [Open with nbviewer](https://nbviewer.jupyter.org/github/reejungkim/User-Analysis/blob/master/Geographic%20mapping%20-%20Folium.ipynb)
