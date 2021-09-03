@@ -23,6 +23,10 @@ This repository is divided into three parts:
 <!-- ![market basket](image/market%20basket%20analysis.jpg) -->
 <img src="image/market%20basket%20analysis.jpg" height="200" width="300">
 
+
+[Instacart](https://nbviewer.jupyter.org/github/reejungkim/User-Analysis/blob/master/Instacart.ipynb)
+
+
 ## 4. Recommendation system using collaborative filtering
 [See Jupyter Notebook](Movie%20recommendation%20system.ipynb)
 <img src="image/collabFilter.png" height="200" width="300">
